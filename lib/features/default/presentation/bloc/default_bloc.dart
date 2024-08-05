@@ -1,5 +1,5 @@
 import 'package:bloc/bloc.dart';
-import 'package:disneycodechallenge_francisco_gomez/features/default/data/utils/name_list_util.dart';
+import 'package:codechallenge_francisco_gomez/features/default/data/utils/name_list_util.dart';
 import 'package:meta/meta.dart';
 
 part 'default_event.dart';

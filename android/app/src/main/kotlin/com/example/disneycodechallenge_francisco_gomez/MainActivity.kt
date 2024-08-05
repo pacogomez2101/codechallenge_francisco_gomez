@@ -1,4 +1,4 @@
-package com.example.disneycodechallenge_francisco_gomez
+package com.example.codechallenge_francisco_gomez
 
 import io.flutter.embedding.android.FlutterActivity
 

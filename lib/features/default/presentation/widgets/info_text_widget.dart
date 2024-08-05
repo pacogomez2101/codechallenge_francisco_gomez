@@ -1,5 +1,5 @@
-import 'package:disneycodechallenge_francisco_gomez/core/constants/colors.dart';
-import 'package:disneycodechallenge_francisco_gomez/core/constants/strings.dart';
+import 'package:codechallenge_francisco_gomez/core/constants/colors.dart';
+import 'package:codechallenge_francisco_gomez/core/constants/strings.dart';
 import 'package:flutter/material.dart';
 
 class InfoTextWidget extends StatelessWidget {

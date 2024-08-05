@@ -1,10 +1,10 @@
-import 'package:disneycodechallenge_francisco_gomez/core/constants/colors.dart';
-import 'package:disneycodechallenge_francisco_gomez/core/constants/strings.dart';
-import 'package:disneycodechallenge_francisco_gomez/features/default/presentation/bloc/default_bloc.dart';
-import 'package:disneycodechallenge_francisco_gomez/features/default/presentation/widgets/bottom_advice_widget.dart';
-import 'package:disneycodechallenge_francisco_gomez/features/default/presentation/widgets/check_box_list_widget.dart';
-import 'package:disneycodechallenge_francisco_gomez/features/default/presentation/widgets/generic_button_widget.dart';
-import 'package:disneycodechallenge_francisco_gomez/features/default/presentation/widgets/info_text_widget.dart';
+import 'package:codechallenge_francisco_gomez/core/constants/colors.dart';
+import 'package:codechallenge_francisco_gomez/core/constants/strings.dart';
+import 'package:codechallenge_francisco_gomez/features/default/presentation/bloc/default_bloc.dart';
+import 'package:codechallenge_francisco_gomez/features/default/presentation/widgets/bottom_advice_widget.dart';
+import 'package:codechallenge_francisco_gomez/features/default/presentation/widgets/check_box_list_widget.dart';
+import 'package:codechallenge_francisco_gomez/features/default/presentation/widgets/generic_button_widget.dart';
+import 'package:codechallenge_francisco_gomez/features/default/presentation/widgets/info_text_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

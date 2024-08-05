@@ -1,5 +1,5 @@
-import 'package:disneycodechallenge_francisco_gomez/features/default/presentation/bloc/default_bloc.dart';
-import 'package:disneycodechallenge_francisco_gomez/features/default/presentation/widgets/checkbox_item_widget.dart';
+import 'package:codechallenge_francisco_gomez/features/default/presentation/bloc/default_bloc.dart';
+import 'package:codechallenge_francisco_gomez/features/default/presentation/widgets/checkbox_item_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
